@@ -4,9 +4,9 @@
   "description": "validateContactForm aws lambda",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "^2.442.0",
-    "axios": "^0.18.0",
-    "dotenv": "^8.0.0"
+    "aws-sdk": "2.442.0",
+    "axios": "0.18.0",
+    "dotenv": "8.0.0"
   },
   "keywords": [
     "contact",
