@@ -1,0 +1,16 @@
+{
+  "name": "validatecontactform",
+  "version": "1.0.0",
+  "description": "validateContactForm aws lambda",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.442.0",
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0"
+  },
+  "keywords": [
+    "contact",
+    "lambda"
+  ],
+  "author": "andrew madden"
+}
