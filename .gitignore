@@ -1,0 +1,7 @@
+# private keys
+recaptcha_key.txt
+validateContactForm/.env
+
+# lambda zipped bundle
+validateContactForm.zip
+
