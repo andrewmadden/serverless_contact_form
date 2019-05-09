@@ -5,3 +5,6 @@ validateContactForm/.env
 # lambda zipped bundle
 validateContactForm.zip
 
+# npm
+node_modules
+
